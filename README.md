@@ -67,7 +67,6 @@ This project aims to predict the presence of heart disease using patient data an
 [Download](Heart_Desease.ipynb)
 
 
-Here’s a **README.md** tailored for your uploaded Jupyter notebook, `CoffeeAndSleep.ipynb`, which appears to involve predicting sleep likelihood based on coffee intake and fitness level using a simple neural network:
 
 ---  
 
